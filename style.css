@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+/* .yashil{
+    height: 100px;
+    background: green;
+    border: 1px solid;
+}
+.yashil1{
+    height: 50px;
+    background: green;
+    border: 1px solid;
+} */
+
+body{
+   
+}
+
+.carousel-item img{
+    height: 400px;
+    object-fit: cover;
+}
+.size{
+    font-size: 20px;
+}
+.card-img-top{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+
+}
